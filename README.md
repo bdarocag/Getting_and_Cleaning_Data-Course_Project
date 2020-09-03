@@ -25,7 +25,7 @@ https://www.coursera.org/course/getdata
 * reshape2
 
 ### set working dir
-* Script creates a relative `./data` dir in which it downloads the .zip, extracts it and writes the result file (`tidy_data.txt`)
+* Script creates a relative `./data` dir in which it downloads the .zip, extracts it and writes the result file (`tidy_data_set.txt`)
 
 ### run `run_analysis.R`
 * writes data to `./data` dir
@@ -35,4 +35,4 @@ https://www.coursera.org/course/getdata
 ### Note
 *This document was manuallity edited from source
 
-* global variables `tidyData` & `resultData` (see `CodeBook.md`)
+* global variables `longtowide` & `appropriate_labels_data` (see `CodeBook.md`)
