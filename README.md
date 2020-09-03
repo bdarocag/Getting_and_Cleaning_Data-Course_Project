@@ -33,6 +33,6 @@ https://www.coursera.org/course/getdata
 * `source('run_analysis.R')`
 
 ### Note
-*This document was manuallity edited from source
+* This document was manuallity edited from source
 
 * global variables `longtowide` & `appropriate_labels_data` (see `CodeBook.md`)
